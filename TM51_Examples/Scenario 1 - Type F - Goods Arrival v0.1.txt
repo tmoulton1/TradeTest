@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inv:inventoryLinkingImportsGoodsArrival xmlns:inv="http://gov.uk/customs/inventoryLinkingImport/v1">
+   <inv:entryNumber>18GBB6C3C9PNDFGVR5</inv:entryNumber>
+   <inv:entryVersionNumber>3</inv:entryVersionNumber>
+   <inv:inventoryConsignmentReference>GB/12345-666666JCP</inv:inventoryConsignmentReference>
+   <inv:transportNationality>NL</inv:transportNationality>
+</inv:inventoryLinkingImportsGoodsArrival>
